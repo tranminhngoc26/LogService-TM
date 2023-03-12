@@ -1,7 +1,6 @@
 {
-  "name": "logservice-tm",
+  "name": "@tranminhngoc26/logservice-tm",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "homepage": "https://github.com/tranminhngoc26/LogService-TM.git",
   "scripts": {
@@ -14,6 +13,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tranminhngoc26/LogService-TM.git"
-  }
+    "url": "git+https://github.com/tranminhngoc26/LogService-TM.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tranminhngoc26/LogService-TM/issues"
+  },
+  "devDependencies": {},
+  "description": ""
 }
